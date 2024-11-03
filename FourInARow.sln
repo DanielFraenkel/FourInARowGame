@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInARow.ConsoleApp", "FourInARow.ConsoleApp\FourInARow.ConsoleApp.csproj", "{EB923779-6126-4BA7-B13B-61718EA9A14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInARow.Core", "FourInARow.Core\FourInARow.Core.csproj", "{D077EF39-CAAF-4F1A-9D44-C10D60881FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB923779-6126-4BA7-B13B-61718EA9A14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB923779-6126-4BA7-B13B-61718EA9A14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB923779-6126-4BA7-B13B-61718EA9A14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB923779-6126-4BA7-B13B-61718EA9A14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D077EF39-CAAF-4F1A-9D44-C10D60881FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D077EF39-CAAF-4F1A-9D44-C10D60881FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D077EF39-CAAF-4F1A-9D44-C10D60881FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D077EF39-CAAF-4F1A-9D44-C10D60881FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D971B1-D060-4C1E-90F6-634281EF6B59}
+	EndGlobalSection
+EndGlobal
