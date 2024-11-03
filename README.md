@@ -26,7 +26,7 @@ This project was designed with several software engineering principles in mind:
 ### Build and Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/FourInARow.git
+    git clone https://github.com/DanielFraenkel/FourInARow.git
     cd FourInARow
     ```
 2. Build the project:
